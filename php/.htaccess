@@ -1,0 +1,5 @@
+# Rewrite Rule for favicon
+
+Options +FollowSymlinks
+RewriteEngine On
+RewriteRule ^favicon.ico$ favicon.php
