@@ -19,17 +19,36 @@ Browser would try to check '/favicon.ico' if there's no custom meta tag assigned
 
 https://example.com/favicon.ico -> 302 Redirect -> https://opensource.org/favicon.ico
 
+## Use case
 
-## PHP
-Here is the PHP script
+* If you don't have existing favicon, and wondering which one to use
+* To showcase things you relate yourself to
+* For fun, weird way to tweak your personal website
+* Running out of words, can't think of more! Feel free to send pull requests!
 
-## Python
+## Sample Code
 
-## Java
+* PHP (Functional)
 
-## JavaScript
+* Python
+
+* Java
+
+* JavaScript
+
 
 ## Example
 
+
+```html
+<link rel="icon" href="https://mayur.pipaliya.com//favicon.ico">
+```
+
 * Website: https://mayur.pipaliya.com/
 * Favicon Url: https://mayur.pipaliya.com/favicon.ico
+
+
+## Contribution
+
+Feel free to pull and/or distribute. \o/
+
