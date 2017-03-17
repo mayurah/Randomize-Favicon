@@ -4,11 +4,11 @@
 
 WiKi Definition: A favicon /ˈfæv.ɪˌkɒn/ (short for favorite icon), also known as a shortcut icon, website icon, tab icon, URL icon, or bookmark icon, is a file containing one or more small icons, associated with a particular website or web page.
 
-This: ![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wikipedia_favicon_in_Firefox_on_KDE.png/250px-Wikipedia_favicon_in_Firefox_on_KDE.png)
+This tiny icon in browser: ![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wikipedia_favicon_in_Firefox_on_KDE.png/250px-Wikipedia_favicon_in_Firefox_on_KDE.png)
 
-## Now what is favicon randomizer?
+## So, what is favicon randomizer?
 
-You can have random favicon each time users visit to your website.
+Simple, You can have random favicon each time users visit your website.
 
 Came up with this idea of having random favicon on personal website (crazy right?), and here is the simple code to do it.
 
@@ -41,7 +41,7 @@ https://example.com/favicon.ico -> 302 Redirect -> https://opensource.org/favico
 
 
 ```html
-<link rel="icon" href="https://mayur.pipaliya.com//favicon.ico">
+<link rel="icon" href="https://mayur.pipaliya.com/favicon.ico">
 ```
 
 * Website: https://mayur.pipaliya.com/
