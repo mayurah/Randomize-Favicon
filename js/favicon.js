@@ -13,6 +13,6 @@ var _test = true;
 var favicons_array = [ '//www.stackoverflow.com/favicon.ico',
 		  '//news.ycombinator.com/favicon.ico' ];
 
-setInterval(function(){ shuffle(favicons_array); __favicon(favicons_array[]) }, 1000);
+setInterval(function(){ shuffle(favicons_array); __favicon(favicons_array[0]) }, 1000);
 
 
