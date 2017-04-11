@@ -11,7 +11,11 @@ function __favicon(_favicon_url){
 // Sample random test
 var _test = true;
 var favicons_array = [ '//www.stackoverflow.com/favicon.ico',
-		  '//news.ycombinator.com/favicon.ico' ];
+		  '//news.ycombinator.com/favicon.ico',
+		  '//i.imgur.com/AZz5JkV.png?red',
+		  '//i.imgur.com/2KjNCLh.png?yellow',
+		  '//i.imgur.com/5JH29P7.png?purple',
+		  '//i.imgur.com/x6VJ7jS.png?green' ];
 
 function shuffle(array) {
   var currentIndex = array.length, temporaryValue, randomIndex;
