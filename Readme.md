@@ -21,7 +21,8 @@ https://example.com/favicon.ico -> 302 Redirect -> https://opensource.org/favico
 
 ## Use case
 
-* For updates/notification to visitor for dynamic changes such as Favicon with numbers to show user that they've received some update
+
+* For animation/dynamic updates/notification via constant  changes such as Favicon array with numbers/indicator to show user that they've received some update
 * If you don't have existing favicon, and wondering which one to use
 * To showcase things you relate yourself to
 * For fun, weird way to tweak your personal website
